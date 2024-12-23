@@ -1,4 +1,4 @@
-pacakge beetlejuice
+package beetlejuice
 
 import (
   "testing"
